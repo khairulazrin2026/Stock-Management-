@@ -1,0 +1,6 @@
+Here is the Stock Management written in JAVA Language using Intellij IDEA IDE - JAVA....
+Have a nice day ahead...!
+Copyright (c) 2026 KA PC Network Services
+
+Dated: 28/9/2026....
+
